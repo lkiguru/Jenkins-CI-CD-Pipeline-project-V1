@@ -1,6 +1,5 @@
 
-Vamsi Chunduru
-  8:06 PM
+
 package com.example;
 /**
  * This is a class.
@@ -15,6 +14,7 @@ public class Greeter {
    * This is a method.
    */
   public final String greet(final String someone) {
+    
     
     return String.format("Hello Avinash, %s!", someone);
   }
